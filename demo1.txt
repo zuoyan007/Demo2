@@ -3,9 +3,15 @@ main()
    print "Hello World !"
 }
 
-method ()
+method (string name)
 
 {
 
-  perint " my   name is  小小鸟！"
+  perint " my   name is  小小鸟！"+ name
+}
+
+show()
+{
+  string name="小小鸟";
+  method(name);
 }
