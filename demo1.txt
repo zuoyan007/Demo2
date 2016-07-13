@@ -2,3 +2,10 @@ main()
 {
    print "Hello World !"
 }
+
+method ()
+
+{
+
+  perint " my   name is  小小鸟！"
+}
